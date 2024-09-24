@@ -22,6 +22,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rohanroc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![An image of @rohanroc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohanroc)](https://holopin.io/@rohanroc)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rohanroc&icon=0&color=13)](https://visitcount.itsvg.in)
 </div>
