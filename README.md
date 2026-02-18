@@ -5,7 +5,7 @@
 <div align="center">
    
 ## 💫 About Me:
-🔭I'm currently working on FrontEnd Development<br>🤝I'm looking to collaborate on Exciting Projects<br>🌱I'm currently learning BackEnd Development
+🔭I'm currently working as a FrontEnd Developer<br>🤝I'm looking to collaborate on Exciting Projects<br>🌱I'm currently learning and implementing different AI tools 
 
 
 ## 🌐 Socials:
