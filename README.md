@@ -18,12 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohanroc&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanroc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rohanroc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![An image of @rohanroc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohanroc)](https://holopin.io/@rohanroc)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rohanroc&icon=0&color=13)](https://visitcount.itsvg.in)
 </div>
